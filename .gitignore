@@ -1,9 +1,12 @@
 __pycache__/
-*.pyc
+*.py[cod]
 *.egg-info/
 .DS_Store
 build/
 dist/
 .venv/
+venv/
+.pytest_cache/
+.env
 _src/
 README.ko.md

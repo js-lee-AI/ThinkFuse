@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "thinkfuse"
+dynamic = ["version"]
+description = "Trajectory-aware test-time fusion for small reasoning models"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [
+    { name = "Myunghoon Kang" },
+    { name = "Jungseob Lee" },
+    { name = "Jaehyung Seo" },
+    { name = "Heuiseok Lim" },
+]
+keywords = ["reasoning-models", "test-time-fusion", "uncertainty", "small-language-models", "llm"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = ["numpy>=1.23"]
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+
+[project.urls]
+Homepage = "https://github.com/js-lee-AI/ThinkFuse"
+Issues = "https://github.com/js-lee-AI/ThinkFuse/issues"
+
+[tool.setuptools.dynamic]
+version = { attr = "thinkfuse.__version__" }
+
+[tool.setuptools.packages.find]
+include = ["thinkfuse*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
