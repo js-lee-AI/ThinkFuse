@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "ThinkFuse: code for ThinkFuse: Trajectory-Aware Test-Time Fusion for Small Reasoning Models"
+type: software
+authors:
+  - family-names: Kang
+    given-names: Myunghoon
+  - family-names: Lee
+    given-names: Jungseob
+  - family-names: Seo
+    given-names: Jaehyung
+  - family-names: Lim
+    given-names: Heuiseok
+repository-code: "https://github.com/js-lee-AI/ThinkFuse"
+license: MIT
+version: "0.1.0"
+date-released: "2026-10-04"
+keywords:
+  - "reasoning models"
+  - "test-time fusion"
+  - "uncertainty"
+  - "small language models"
+preferred-citation:
+  type: conference-paper
+  title: "ThinkFuse: Trajectory-Aware Test-Time Fusion for Small Reasoning Models"
+  authors:
+    - family-names: Kang
+      given-names: Myunghoon
+    - family-names: Lee
+      given-names: Jungseob
+    - family-names: Seo
+      given-names: Jaehyung
+    - family-names: Lim
+      given-names: Heuiseok
+  year: 2026
+  collection-title: "Findings of the Association for Computational Linguistics: EMNLP 2026"
