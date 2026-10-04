@@ -5,13 +5,14 @@
 <div align="center">
 
 [![Findings of EMNLP 2026](https://img.shields.io/badge/EMNLP%202026-Findings-b31b1b.svg)](#citation)
+[![Project Page](https://img.shields.io/badge/Project-Page-4068a5.svg)](https://js-lee-ai.github.io/ThinkFuse/)
 [![Code MIT](https://img.shields.io/badge/Code-MIT-green.svg)](LICENSE)
 [![Paper CC BY 4.0](https://img.shields.io/badge/Paper-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![CI](https://github.com/js-lee-AI/ThinkFuse/actions/workflows/ci.yml/badge.svg)](https://github.com/js-lee-AI/ThinkFuse/actions/workflows/ci.yml)
 [![Stars](https://img.shields.io/github/stars/js-lee-AI/ThinkFuse?style=social)](https://github.com/js-lee-AI/ThinkFuse/stargazers)
 
-<b><a href="#quick-start">Quick start</a> · <a href="#usage">Usage</a> · <a href="#default-hyperparameters">Hyperparameters</a> · <a href="#results">Results</a> · <a href="#faq">FAQ</a> · <a href="#citation">Citation</a></b>
+<b><a href="https://js-lee-ai.github.io/ThinkFuse/">Project Page</a> · <a href="#quick-start">Quick start</a> · <a href="#usage">Usage</a> · <a href="#default-hyperparameters">Hyperparameters</a> · <a href="#results">Results</a> · <a href="#faq">FAQ</a> · <a href="#citation">Citation</a></b>
 
 </div>
 
