@@ -5,6 +5,7 @@
 <div align="center">
 
 [![Findings of EMNLP 2026](https://img.shields.io/badge/EMNLP%202026-Findings-b31b1b.svg)](#citation)
+[![arXiv](https://img.shields.io/badge/arXiv-2610.07803-b31b1b.svg)](https://arxiv.org/abs/2610.07803)
 [![Project Page](https://img.shields.io/badge/Project-Page-4068a5.svg)](https://js-lee-ai.github.io/ThinkFuse/)
 [![Code MIT](https://img.shields.io/badge/Code-MIT-green.svg)](LICENSE)
 [![Paper CC BY 4.0](https://img.shields.io/badge/Paper-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -12,7 +13,7 @@
 [![CI](https://github.com/js-lee-AI/ThinkFuse/actions/workflows/ci.yml/badge.svg)](https://github.com/js-lee-AI/ThinkFuse/actions/workflows/ci.yml)
 [![Stars](https://img.shields.io/github/stars/js-lee-AI/ThinkFuse?style=social)](https://github.com/js-lee-AI/ThinkFuse/stargazers)
 
-<b><a href="https://js-lee-ai.github.io/ThinkFuse/">Project Page</a> · <a href="#quick-start">Quick start</a> · <a href="#usage">Usage</a> · <a href="#default-hyperparameters">Hyperparameters</a> · <a href="#results">Results</a> · <a href="#faq">FAQ</a> · <a href="#citation">Citation</a></b>
+<b><a href="https://js-lee-ai.github.io/ThinkFuse/">Project Page</a> · <a href="https://arxiv.org/abs/2610.07803">Paper</a> · <a href="#quick-start">Quick start</a> · <a href="#usage">Usage</a> · <a href="#default-hyperparameters">Hyperparameters</a> · <a href="#results">Results</a> · <a href="#faq">FAQ</a> · <a href="#citation">Citation</a></b>
 
 </div>
 
@@ -20,6 +21,7 @@
 
 ## News
 
+- **[2026-10-06]** The paper is on [arXiv](https://arxiv.org/abs/2610.07803).
 - **[2026-10-04]** Code released. The paper is accepted to Findings of EMNLP 2026.
 
 ## Overview
@@ -278,11 +280,12 @@ A fixed random subsample of 200 examples for each benchmark, drawn once with see
 If you use this code, please cite the paper.
 
 ```bibtex
-@inproceedings{kang2026thinkfuse,
-  title     = {ThinkFuse: Trajectory-Aware Test-Time Fusion for Small Reasoning Models},
-  author    = {Kang, Myunghoon and Lee, Jungseob and Seo, Jaehyung and Lim, Heuiseok},
-  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2026},
-  year      = {2026}
+@article{kang2026thinkfuse,
+  title   = {ThinkFuse: Trajectory-Aware Test-Time Fusion for Small Reasoning Models},
+  author  = {Kang, Myunghoon and Lee, Jungseob and Seo, Jaehyung and Lim, Heuiseok},
+  journal = {arXiv preprint arXiv:2610.07803},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2610.07803}
 }
 ```
 

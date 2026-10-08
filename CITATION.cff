@@ -21,7 +21,7 @@ keywords:
   - "uncertainty"
   - "small language models"
 preferred-citation:
-  type: conference-paper
+  type: article
   title: "ThinkFuse: Trajectory-Aware Test-Time Fusion for Small Reasoning Models"
   authors:
     - family-names: Kang
@@ -32,5 +32,6 @@ preferred-citation:
       given-names: Jaehyung
     - family-names: Lim
       given-names: Heuiseok
+  journal: "arXiv preprint arXiv:2610.07803"
   year: 2026
-  collection-title: "Findings of the Association for Computational Linguistics: EMNLP 2026"
+  url: "https://arxiv.org/abs/2610.07803"
