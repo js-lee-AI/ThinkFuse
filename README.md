@@ -18,10 +18,10 @@
 </div>
 
 <p align="center">
-  <a href="https://js-lee-ai.github.io/ThinkFuse/#race"><img src="assets/replay.gif" width="100%" alt="Three runs answer one MATH-500 problem with Qwen3-4B. ThinkFuse takes three reasoning segments from Ministral-3B-R, shown in blue, and gives the correct answer 72 after 1,941 tokens. Cool-Fusion ends after 2,004 tokens without an answer, and Qwen3-4B alone answers 360 after 8,111 tokens" /></a>
+  <a href="https://js-lee-ai.github.io/ThinkFuse/#race"><img src="assets/replay.gif" width="100%" alt="Three runs answer one MATH-500 problem whose answer is 72, with Qwen3-4B. ThinkFuse compares candidates 18 times, takes three reasoning segments from Ministral-3B-R, shown in blue, and gives the correct answer 72 after 1,941 tokens. Cool-Fusion compares candidates 1,888 times, takes 170 segments from Ministral-3B-R and ends after 2,004 tokens without an answer. Qwen3-4B alone answers 360 after 8,111 tokens" /></a>
 </p>
 
-<p align="center"><em>Qwen3-4B with Ministral-3B-R, blue is the text taken from the auxiliary model. The <a href="https://js-lee-ai.github.io/ThinkFuse/#race">project page</a> replays it live.</em></p>
+<p align="center"><em>Qwen3-4B with Ministral-3B-R, blue is the text ThinkFuse took from the auxiliary model. The <a href="https://js-lee-ai.github.io/ThinkFuse/#race">project page</a> replays it live.</em></p>
 
 ---
 
